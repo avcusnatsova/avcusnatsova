@@ -1,5 +1,5 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:c084fc&height=220&section=header&text=Cusnat%20Sova&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineer%20%E2%80%A2%20Java%20%26%20Python%20%E2%80%A2%20AI%2FML&descAlignY=58&descSize=20" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:a78bfa&height=220&section=header&text=Cusnat%20Sova&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineer%20%E2%80%A2%20Java%20%E2%80%A2%20Python%20%E2%80%A2%20AI%20and%20ML&descAlignY=58&descSize=20" width="100%" alt="header" />
 
 <div align="center">
 
@@ -127,4 +127,4 @@
 </div>
 
 <!-- ═══════════════ FOOTER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:7c3aed,100:4c1d95&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,100:4c1d95&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" alt="footer" />
